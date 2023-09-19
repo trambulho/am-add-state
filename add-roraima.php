@@ -3,7 +3,7 @@
 Plugin Name: AM - Adiciona Rorâima
 Plugin URI: https://agenciamillennium.com/
 Description: Adiciona Rorâima ao banco do Country State City Dropdown CF7
-Version: 1.0.0
+Version: 1.0.1
 Author: Agência Millennium
 Author URI: https://agenciamillennium.com/
 * Copyright (c) 2023 Agência Millennium, Todos os direitos reservados.
